@@ -1,0 +1,48 @@
+{
+    "guilds": {
+        "1128654890084876330": {
+            "message": "https://discord.com/api/webhooks/1147619747899392102/Ko8kungX-m908ba3kbekEC1hVoxD3BgQih1O63Zl8cRARRJcCncYFQP3ujhRj_wumxSO",
+            "member": "https://discord.com/api/webhooks/1147620264667009046/ZmJkxbEjIj-X6qmd0QMEY1_OZS-Icdj6WhKpm6i18oz_Z5yy91LkzcHAKs32Vxxhtdub",
+            "server": "https://discord.com/api/webhooks/1147618698996224061/Jj5ecmtqqMskwjyn3dtR-ReQxTlftsFPH6-N8e-OCAafpKgxdi72J6cMtXl6mI39ARja",
+            "channel": "https://discord.com/api/webhooks/1147619714747617415/dr_VWRq4wb3hG_cckhB0vLwtsieQI8cCKy050LFuifKOD-GtAO8Yg__SbQ4O9hAUzHp7",
+            "role": "https://discord.com/api/webhooks/1147620159469662340/xaRX4WtIRVwQmvf-MUtW3ug5KczugjIAJudXTt2eEujxT9L016ioug0Y7hF4nXzbD1rt",
+            "mod": "https://discord.com/api/webhooks/1147619490050342923/V5hafsElxBqEjaa-uPCFWjlvrPDetMUw3_Uiw37D6OXSNudD0nht-4aPdgoheEYZH9Gf"
+        },
+        "1105447285866897529": {
+            "mod": null,
+            "role": null,
+            "message": null,
+            "member": null,
+            "channel": null,
+            "server": null,
+            "voice": null
+        },
+        "1088171869611495434": {
+            "mod": null,
+            "role": null,
+            "message": null,
+            "member": null,
+            "channel": null,
+            "server": null,
+            "voice": null
+        },
+        "1077505288531345488": {
+            "mod": null,
+            "role": null,
+            "message": null,
+            "member": null,
+            "channel": null,
+            "server": null,
+            "voice": null
+        },
+        "978666102173352038": {
+            "mod": null,
+            "role": null,
+            "message": null,
+            "member": null,
+            "channel": null,
+            "server": null,
+            "voice": null
+        }
+    }
+}
